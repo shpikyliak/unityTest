@@ -17,10 +17,10 @@ TagManager:
   - UI
   - 
   - 
-  - Enemy
+  - 
   - Player
-  - 
-  - 
+  - Damagable
+  - Dead
   - 
   - 
   - 
@@ -53,4 +53,10 @@ TagManager:
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 3238858529
+    locked: 0
+  - name: Player
+    uniqueID: 3175362585
     locked: 0
